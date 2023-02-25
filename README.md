@@ -1,10 +1,10 @@
 # demo-springcloud-streams-kafka-master
 ![aaaaa s c](https://user-images.githubusercontent.com/86847138/221362871-3eabd228-9157-4c83-94dc-461fa2b41ba1.PNG)
 
-##Page event 
+## Page event 
 ![pageEvent1](https://user-images.githubusercontent.com/86847138/221362873-6380d653-7f81-4dfd-aad2-3ce0a229b124.PNG)
 
-##Name
+## Name
 ![name achraf](https://user-images.githubusercontent.com/86847138/221362883-c945b720-76dc-4347-a880-9819a83b4050.PNG)
 
 ## Topic R2
